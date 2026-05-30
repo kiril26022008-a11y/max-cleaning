@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kiril26022008-a11y.github.io/max-cleaning/sitemap.xml

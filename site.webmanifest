@@ -1,0 +1,18 @@
+{
+  "name": "Макс-Клининг",
+  "short_name": "Макс-Клининг",
+  "description": "Химчистка и уборка в Сочи с выездом по адресу.",
+  "start_url": "index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101418",
+  "theme_color": "#101418",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
